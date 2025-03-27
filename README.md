@@ -1,1 +1,1 @@
-# Template-for-webpack-configuration
+# Webpack Template
